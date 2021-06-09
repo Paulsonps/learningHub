@@ -1,12 +1,12 @@
 ---
-title: "Workshop practice 4"
+title: "Workshop practice 7"
 ---
 
 ## Bootstrap Workshop
 
 Use `Bootstrap`.
 
-Figma Link: https://www.figma.com/file/mM4IQfgmtYfTU61YljEvVA/UI-Development-Design-Sample?node-id=3%3A923
+Figma Link: https://www.figma.com/file/mM4IQfgmtYfTU61YljEvVA/UI-Development-Design-Sample?node-id=2%3A2430
 
 [Download Assets Follow This Video](https://www.youtube.com/watch?v=NpzL1MONwaw)
 
@@ -15,7 +15,7 @@ Figma Link: https://www.figma.com/file/mM4IQfgmtYfTU61YljEvVA/UI-Development-Des
 ### Workshop practice 3: 
 #### Time: 24 HOURS.
 
-![workshop2 Neoito](/workshop4.jpg)
+![workshop2 Neoito](/workshop7.jpg)
 
 ## Instructions 
 * Body should be 100% width.
