@@ -2,16 +2,20 @@
 title: "Workshop practice 2"
 ---
 
-## SASS OR SCSS Workshop
 
-Use `SASS`or `SCSS`.
+Use `Bootstrap/Tailwind`.
 
-Marvelapp Link: https://marvelapp.com/22ee35j6
+Figma Link Web: https://www.figma.com/file/mM4IQfgmtYfTU61YljEvVA/UI-Development-Design-Sample?node-id=1%3A2
 
-[Download Assets](https://drive.google.com/file/d/1YI26TfUDmLItyBTgHcNnLxRdqLXc22hV/view?usp=sharing)
+Figma Link Responsive: https://www.figma.com/file/mM4IQfgmtYfTU61YljEvVA/UI-Development-Design-Sample?node-id=1%3A2255
+
+Figma Link Mobile: https://www.figma.com/file/mM4IQfgmtYfTU61YljEvVA/UI-Development-Design-Sample?node-id=1%3A2876
+
+
+[For Download Assets Follow This Video](https://www.youtube.com/watch?v=NpzL1MONwaw)
 
 ### Workshop practice 2: 
-#### Time: 16 HOURS.
+#### Time: 48 HOURS.
 
 ![workshop1 Neoito](/workshop3.jpg)
 

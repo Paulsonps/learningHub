@@ -6,26 +6,26 @@ title: "Workshop practice 3"
 
 Use `Bootstrap`.
 
-Marvelapp Link: https://marvelapp.com/63hbc84/screen/69166398
+Figma Link Web: https://www.figma.com/file/ALkYTnPAwnZ8uKGxeb28BJ/Web-Development-Company?node-id=0%3A2
 
-[Download Assets](https://drive.google.com/file/d/1IQe9xXhJhKxYXh_uuNP9Z_M7DSB1ra3Z/view?usp=sharing)
+Figma Link Responsive: https://www.figma.com/file/mM4IQfgmtYfTU61YljEvVA/UI-Development-Design-Sample?node-id=3%3A632
 
-*Please find __responsive design__ in Assets folder*
+[For Download Assets Follow This Video](https://www.youtube.com/watch?v=NpzL1MONwaw)
 
 ### Workshop practice 3: 
-#### Time: 24 HOURS.
+#### Time: 48 HOURS.
 
 ![workshop2 Neoito](/workshop2.jpg)
 
 ## Instructions 
 * Body should be 100% width.
-* Base font-size should be 14px.
-* Use base font-family: OpenSans.
+* Base font-size should be same like FIGMA.
+* Use base font-family: same like FIGMA.
 * Use flexbox or grid layout.
 * Use material icons or font awesome icons.
 * Images, CSS, JS should be compressed.
 * Don't use inline CSS.
-* Menus, services, portfolio sections should have hover effect.
+* All Buttons, all links, Cards should have hover effect.
 * Use slick https://kenwheeler.github.io/slick/ for carousel.
 
 ## Check the performance Audit
